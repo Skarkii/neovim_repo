@@ -1,1 +1,1 @@
-/home/lucas/.config/nvim/init.lua
+require("config")
